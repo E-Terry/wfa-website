@@ -1,1 +1,0 @@
-Hosting location for the website for Sensational Children, an occupational therapy summer camp.

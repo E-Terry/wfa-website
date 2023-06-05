@@ -1,4 +1,4 @@
-var gulp = require('gulp');
+var gulp = require('gulp-sass')(require('sass'));
 var sass = require('gulp-sass');
 var prefix = require('gulp-autoprefixer');
 var imagemin = require('gulp-imagemin');

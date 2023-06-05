@@ -3,10 +3,10 @@
 /* Main Color palette and fonts */
 
 html {
-  --accent:       #DB504A;    /* accent     */
-  --accent-dark:  #4e3e51;    /* accent 2   */
-  --main:         #326273;    /* main color */
-  --main-dim:     #879dab;    /* dimmed version of main color */
+  --accent:       #fcc22d;    /* accent     */
+  --accent-dark:  hsl(29, 96%, 37%);    /* accent 2   */
+  --main:         #dd7f27;   /* main color deafult: */
+  --main-dim:     #F2E8E0;    /* dimmed version of main color */
   --text:         #2B323B;
   --grey1:        #5F5E58;
   --grey2:        #8D897C;
@@ -27,10 +27,10 @@ html {
 }
 
 html[data-theme="dark"]  {
-  --accent:       #d14c47;    /* accent     */
-  --accent-dark:  #DBBEA1;    /* accent 2   */
-  --main:         #5F8081;    /* main color */
-  --main-dim:     #333D47;    /* dimmed version of main color */
+  --accent:       hsl(29, 96%, 37%);    /* accent     */
+  --accent-dark:  #fcc22d;    /* accent 2   */
+  --main:         hsl(29,73%,51%);    /* main color */
+  --main-dim:     hsl(214, 16%, 20%);    /* dimmed version of main color */
   --text:         #CBCCCD;
   --grey1:        #B1B1AE;
   --grey2:        #959692;
@@ -581,7 +581,7 @@ svg {
           align-items: center;
 }
 .main-header .logo {
-  width: 80%;
+  width: 50%;
   position: relative;
   text-align: center;
   color:var(--main);
@@ -933,8 +933,8 @@ svg.menu-icon-house {
   align-items:center;
 }
 .logo-symbol {
-  max-width: 45px;
-  max-height: 45px;
+  max-width: 100px;
+  max-height: 90%;
 }
 .logo-link {
   display:block;
@@ -949,9 +949,11 @@ svg.menu-icon-house {
 }
 .copyright {
   text-align: center;
-  color: var(--grey4);
+  color: var(--grey1);
+  font-weight: var(--font1);
+  font-family: var(--font1);
   font-size: 0.6em;
-  opacity: 0.75;
+  opacity: 1;
 }
 .footer-nav {
   display: flex;
@@ -965,7 +967,7 @@ svg.menu-icon-house {
   justify-content: center;
 }
 .footer-nav a {
-  color: var(--grey4);
+  color: var(--grey1);
   text-decoration: none;
   font-size: 14px;
   font-weight: var(--font2-bold);

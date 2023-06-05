@@ -1,5 +1,5 @@
 backend:
-  name: git-gateway
+  name: github
   repo: E-Terry/wfa-website
   branch: master # Branch to update (optional; defaults to master)
 

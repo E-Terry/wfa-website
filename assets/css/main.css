@@ -6,7 +6,7 @@ html {
   --accent:       #fcc22d;    /* accent     */
   --accent-dark:  hsl(29, 96%, 37%);    /* accent 2   */
   --main:         #dd7f27;   /* main color deafult: */
-  --main-dim:     #F2E8E0;    /* dimmed version of main color */
+  --main-dim:     #FFFAF0;    /* dimmed version of main color */
   --text:         #2B323B;
   --grey1:        #5F5E58;
   --grey2:        #8D897C;

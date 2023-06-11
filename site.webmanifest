@@ -1,0 +1,21 @@
+{
+    "name": "Sensational Kids",
+    "short_name": "Sensational Kids",
+    "icons": [
+        {
+            "src": "/android-chrome-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#dd7f29",
+    "background_color": "#dd7f29",
+    "start_url": "https://www.mysensationalkid.org/",
+    "display": "standalone",
+    "orientation": "portrait"
+}

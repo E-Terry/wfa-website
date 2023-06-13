@@ -23,3 +23,7 @@ author: Jenny Terry
 * **Week 4: July 31-Aug 3 Wet, Wacky, and Wild Youtube Video Challenge** Participate in wet, wacky, and wild challenges that we will film and post on our **private** camp youtube channel. Activities will include the world's longest slip and slide, a spaghetti noodle slurping contest, a life-size hungry hippo game, tug of war through a foam swamp, a human chess game, "attack of the spray bottles" t-shirt design contest, and whatever other outrageous ideas the campers come up with that we can pull off.
 
 **Please contact Jenny Terry, OT/L at 919-225-7930 in you are interested in summer camp for your child.**
+
+
+
+**TEST**
